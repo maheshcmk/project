@@ -1,1 +1,0 @@
-<iframe src='https://webchat.botframework.com/embed/servises-maxdjam?s=cU2vNAQ8Pn8.nIF2XiKSDcYSwJAne9jocZb5trlCQT0uFeru0IlUJJ8'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
