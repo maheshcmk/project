@@ -7,9 +7,12 @@ This is a web based application developed for a College Education related named 
 
 
 **Project Link** - https://red-dune-048886200.3.azurestaticapps.net
-
-
 **Project Demo Video Link** -  
+
+## Azure technologies used for Project
+
+- static web apps
+- Health bot
 
 ## Features and Functionalities 😃
 
@@ -39,7 +42,7 @@ This is a web based application developed for a College Education related named 
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- Azure(Hosting)
 - HTML
 - CSS
 - Bootstrap
